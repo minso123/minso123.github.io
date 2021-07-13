@@ -26,11 +26,11 @@ img {
     padding: 1em 2em;
     text-decoration: none;
     background-color: rgba(30, 0, 201, 0.8);;
-    color: white;
+    color: rgb(255, 255, 255);
     border-radius: 5px;
 }
 .button:hover {
-    background-color: rgba(30, 0, 201, 0.8);
+    background-color: rgba(92, 0, 121, 0.8);
     color: white;
 }
 .button.dark {
@@ -38,7 +38,7 @@ img {
     background-color: rgba(255, 255, 255,.8);
 }
 .button.dark:hover {
-    background-color: rgba(255, 255, 255,1);
+    background-color: rgb(30, 0, 201);
 }
 
 /* SITE STRUCTURE */
